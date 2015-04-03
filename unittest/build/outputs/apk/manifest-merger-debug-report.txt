@@ -1,0 +1,38 @@
+-- Merging decision tree log ---
+manifest
+ADDED from AndroidManifest.xml:2:1
+	package
+		ADDED from AndroidManifest.xml:3:2
+	android:versionName
+		ADDED from AndroidManifest.xml:5:2
+	android:versionCode
+		ADDED from AndroidManifest.xml:4:2
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	xmlns:android
+		ADDED from AndroidManifest.xml:2:11
+uses-sdk
+ADDED from AndroidManifest.xml:7:2
+MERGED from NotOne:src:unspecified:7:5
+MERGED from NotOne:utilities:unspecified:7:5
+MERGED from NotOne:src:unspecified:7:5
+	android:targetSdkVersion
+		ADDED from AndroidManifest.xml:7:39
+	android:minSdkVersion
+		ADDED from AndroidManifest.xml:7:12
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from AndroidManifest.xml:8:2
+	android:name
+		ADDED from AndroidManifest.xml:8:19
+instrumentation#android.test.InstrumentationTestRunner
+ADDED from AndroidManifest.xml:9:2
+	android:targetPackage
+		ADDED from AndroidManifest.xml:9:73
+	android:name
+		ADDED from AndroidManifest.xml:9:19
+application
+ADDED from AndroidManifest.xml:11:2
+uses-library#android.test.runner
+ADDED from AndroidManifest.xml:12:3
+	android:name
+		ADDED from AndroidManifest.xml:12:17

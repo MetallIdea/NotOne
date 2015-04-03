@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="unspecified"><source path="D:\Work\Other\android\NotOne\utilities\build\intermediates\exploded-aar\NotOne\src\unspecified\assets"/></dataSet><dataSet config="debug"><source path="D:\Work\Other\android\NotOne\utilities\build\intermediates\bundles\debug\assets"/></dataSet><dataSet config="main"><source path="D:\Work\Other\android\NotOne\utilities\src\androidTest\assets"/></dataSet></merger>
